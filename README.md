@@ -1,73 +1,70 @@
-# Welcome to your Lovable project
+# Estudio Jurídico Rey
 
-## Project info
+Sitio web oficial del Estudio Jurídico Rey - Bufete de abogados especializado en defensa legal con excelencia.
 
-**URL**: https://lovable.dev/projects/bb9d1907-f915-43b7-93a2-738de0ac35c7
+## Descripción
 
-## How can I edit this code?
+Estudio Jurídico Rey es un bufete de abogados especializado en:
+- Derecho Penal
+- Derecho Corporativo  
+- Derecho Laboral
+- Derecho Civil
+- Derecho de Familia
 
-There are several ways of editing your application.
+Con oficinas en Lima y Arequipa, ofrecemos cobertura legal a nivel nacional.
 
-**Use Lovable**
+## Tecnologías Utilizadas
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/bb9d1907-f915-43b7-93a2-738de0ac35c7) and start prompting.
+- React 18
+- TypeScript
+- Tailwind CSS
+- Vite
+- Framer Motion
 
-Changes made via Lovable will be committed automatically to this repo.
+## Instalación y Desarrollo
 
-**Use your preferred IDE**
+### Prerrequisitos
+- Node.js (versión 18 o superior)
+- npm o yarn
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### Instalación
+```bash
+npm install
+```
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+### Desarrollo
+```bash
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+### Construcción para Producción
+```bash
+npm run build
+```
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+### Vista Previa de Producción
+```bash
+npm run preview
+```
 
-**Use GitHub Codespaces**
+## Estructura del Proyecto
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+```
+src/
+├── components/          # Componentes React
+├── pages/              # Páginas principales
+├── hooks/              # Custom hooks
+├── lib/                # Utilidades
+└── assets/             # Recursos estáticos
+```
 
-## What technologies are used for this project?
+## Contacto
 
-This project is built with:
+**Estudio Jurídico Rey**
+- Teléfono: +51 XXX XXX XXX
+- Email: contacto@estudiojuridicorey.com
+- Dirección: Lima, Perú
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## Licencia
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/bb9d1907-f915-43b7-93a2-738de0ac35c7) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+© 2024 Estudio Jurídico Rey. Todos los derechos reservados.
