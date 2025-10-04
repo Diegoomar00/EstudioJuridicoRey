@@ -27,7 +27,7 @@ const Footer = () => {
           <div className="space-y-6">
             <div className="flex items-center space-x-3">
               <img 
-                src="/src/assets/logo/logo1.png" 
+                src="/assets/logo/logo1.png" 
                 alt="Estudio Jurídico Logo" 
                 className="h-12 w-auto"
               />

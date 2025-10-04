@@ -157,7 +157,7 @@ const LocationSection = () => {
                   >
                     <div className="h-32 bg-gradient-to-br from-slate-100 to-slate-200 rounded-lg relative overflow-hidden shadow-card cursor-pointer hover:shadow-elegant transition-all duration-300">
                       <img 
-                        src={mapa1} 
+                        src="/assets/mapa/mapa1.jpeg" 
                         alt="Vista exterior del estudio jurídico - Fachada principal" 
                         className="w-full h-full object-cover"
                       />
@@ -170,7 +170,7 @@ const LocationSection = () => {
                   >
                     <div className="h-32 bg-gradient-to-br from-slate-100 to-slate-200 rounded-lg relative overflow-hidden shadow-card cursor-pointer hover:shadow-elegant transition-all duration-300">
                       <img 
-                        src={mapa2} 
+                        src="/assets/mapa/mapa2.jpg" 
                         alt="Vista exterior del estudio jurídico - Entrada lateral" 
                         className="w-full h-full object-cover"
                       />

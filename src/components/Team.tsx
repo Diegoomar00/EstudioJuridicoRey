@@ -9,7 +9,7 @@ const Team = () => {
       role: 'Abogado Civil',
       specialization: 'Derecho Civil, Comercial y Contractual',
       description: 'Abogado civilista con amplia experiencia en derecho civil, comercial y contractual. Especialista en resolución de conflictos civiles y asesoría legal empresarial.',
-      image: '/src/assets/abogados/Pedro Luis Ricra Llashac - civil.png',
+      image: '/assets/abogados/Pedro Luis Ricra Llashac - civil.png',
       icon: Briefcase,
       isMain: false
     },
@@ -18,7 +18,7 @@ const Team = () => {
       role: 'Abogado Civilista',
       specialization: 'Derecho Civil y Procesal Civil',
       description: 'Especialista en derecho civil con enfoque en litigios civiles, contratos y derecho procesal. Experiencia en casos complejos de derecho civil.',
-      image: '/src/assets/abogados/Javier Alfredo Espejo Vasquez - Abogado Civilista.png',
+      image: '/assets/abogados/Javier Alfredo Espejo Vasquez - Abogado Civilista.png',
       icon: Users,
       isMain: false
     },
@@ -27,7 +27,7 @@ const Team = () => {
       role: 'Abogado Civil Penalista',
       specialization: 'Derecho Civil y Penal',
       description: 'Abogado especializado en derecho civil y penal. Experto en casos penales complejos y defensa legal integral con amplia experiencia en ambas ramas del derecho.',
-      image: '/src/assets/abogados/Richard Junior Sullon Zevallos - Abogado civil penalista.png',
+      image: '/assets/abogados/Richard Junior Sullon Zevallos - Abogado civil penalista.png',
       icon: Award,
       isMain: false
     }
@@ -140,7 +140,7 @@ const Team = () => {
                     <div className="text-center">
                       <div className="w-12 h-12 bg-accent/10 rounded-full flex items-center justify-center mx-auto mb-4 group-hover:bg-accent/20 transition-colors duration-300">
                         <svg className="h-6 w-6 text-accent" fill="currentColor" viewBox="0 0 100 100">
-                          <use href="/src/assets/legal-icons.svg#justice-scale"/>
+                          <use href="/assets/legal-icons.svg#justice-scale"/>
                         </svg>
                       </div>
                     

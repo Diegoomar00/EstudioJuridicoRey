@@ -47,7 +47,7 @@ const Header = () => {
         {/* Logo */}
         <div className="flex items-center space-x-2 md:space-x-3 animate-slide-in-left">
           <img 
-            src={isScrolled ? '/src/assets/logo/logo2.png' : '/src/assets/logo/logo1.png'}
+            src={isScrolled ? '/assets/logo/logo2.png' : '/assets/logo/logo1.png'}
             alt="Estudio Jurídico Rey"
             className="h-8 w-8 md:h-10 md:w-10 transition-all duration-500 object-contain"
           />

@@ -2,12 +2,7 @@ import { Card, CardContent } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { Calendar, Trophy, MapPin } from 'lucide-react';
 import ScrollAnimatedSection from './ScrollAnimatedSection';
-import caso1 from '@/assets/casos/caso1.jpeg';
-import caso2 from '@/assets/casos/caso2.jpeg';
-import caso3 from '@/assets/casos/caso3.jpeg';
-import caso4 from '@/assets/casos/caso4.jpeg';
-import caso5 from '@/assets/casos/caso5.jpeg';
-import caso6 from '@/assets/casos/caso6.jpeg';
+// Removed imports - using public paths instead
 
 const CasesSection = () => {
   const cases = [
@@ -21,7 +16,7 @@ const CasesSection = () => {
       location: 'Lima - Perú',
       imageSpace: true,
       type: 'penal',
-      image: caso1
+      image: "/assets/casos/caso1.jpeg"
     },
     {
       id: 2,
@@ -33,7 +28,7 @@ const CasesSection = () => {
       location: 'Barranca - Perú',
       imageSpace: true,
       type: 'penal',
-      image: caso2
+      image: "/assets/casos/caso2.jpeg"
     },
     {
       id: 3,
@@ -45,7 +40,7 @@ const CasesSection = () => {
       location: 'Barranca - Perú',
       imageSpace: true,
       type: 'civil',
-      image: caso3
+      image: "/assets/casos/caso3.jpeg"
     },
     {
       id: 4,
@@ -57,7 +52,7 @@ const CasesSection = () => {
       location: 'Lima - Perú',
       imageSpace: true,
       type: 'civil',
-      image: caso4
+      image: "/assets/casos/caso4.jpeg"
     },
     {
       id: 5,
@@ -69,7 +64,7 @@ const CasesSection = () => {
       location: 'Buenos Aires - Argentina',
       imageSpace: true,
       type: 'internacional',
-      image: caso5
+      image: "/assets/casos/caso5.jpeg"
     },
     {
       id: 6,
@@ -81,7 +76,7 @@ const CasesSection = () => {
       location: 'São Paulo - Brasil',
       imageSpace: true,
       type: 'internacional',
-      image: caso6
+      image: "/assets/casos/caso6.jpeg"
     }
   ];
 
@@ -121,7 +116,7 @@ const CasesSection = () => {
               <div className="text-center p-6 bg-white rounded-xl shadow-elegant">
                 <div className="inline-flex items-center justify-center w-16 h-16 rounded-full bg-red-100 mb-4">
                   <svg className="w-8 h-8 text-red-600" fill="currentColor" viewBox="0 0 100 100">
-                    <use href="/src/assets/legal-icons.svg#justice-scale"/>
+                    <use href="/assets/legal-icons.svg#justice-scale"/>
                   </svg>
                 </div>
                 <h3 className="text-3xl font-bold text-red-600 mb-2">350+</h3>
@@ -131,7 +126,7 @@ const CasesSection = () => {
               <div className="text-center p-6 bg-white rounded-xl shadow-elegant">
                 <div className="inline-flex items-center justify-center w-16 h-16 rounded-full bg-blue-100 mb-4">
                   <svg className="w-8 h-8 text-blue-600" fill="currentColor" viewBox="0 0 100 100">
-                    <use href="/src/assets/legal-icons.svg#legal-document"/>
+                    <use href="/assets/legal-icons.svg#legal-document"/>
                   </svg>
                 </div>
                 <h3 className="text-3xl font-bold text-blue-600 mb-2">280+</h3>
@@ -141,7 +136,7 @@ const CasesSection = () => {
               <div className="text-center p-6 bg-white rounded-xl shadow-elegant">
                 <div className="inline-flex items-center justify-center w-16 h-16 rounded-full bg-green-100 mb-4">
                   <svg className="w-8 h-8 text-green-600" fill="currentColor" viewBox="0 0 100 100">
-                    <use href="/src/assets/legal-icons.svg#courthouse"/>
+                    <use href="/assets/legal-icons.svg#courthouse"/>
                   </svg>
                 </div>
                 <h3 className="text-3xl font-bold text-green-600 mb-2">25+</h3>
@@ -217,7 +212,7 @@ const CasesSection = () => {
               <div className="bg-white rounded-2xl p-8 shadow-elegant max-w-2xl mx-auto">
                 <div className="inline-flex items-center justify-center w-16 h-16 rounded-full bg-primary/10 mb-6">
                   <svg className="w-8 h-8 text-primary" fill="currentColor" viewBox="0 0 100 100">
-                    <use href="/src/assets/legal-icons.svg#legal-shield"/>
+                    <use href="/assets/legal-icons.svg#legal-shield"/>
                   </svg>
                 </div>
                 <h3 className="text-2xl font-bold text-primary mb-4">

@@ -16,42 +16,42 @@ const PracticeAreas = () => {
       title: 'Delitos de Tráfico Ilícito de Drogas',
       description: 'Defensa especializada en casos de narcotráfico con historial de absoluciones y penas reducidas. Experiencia en casos complejos nacionales e internacionales.',
       color: 'text-red-500',
-      image: '/src/assets/servicios/Delitos de Tráfico Ilícito de Drogas .jpg'
+      image: '/assets/servicios/Delitos de Tráfico Ilícito de Drogas.jpg'
     },
     {
       icon: Gavel,
       title: 'Crimen Organizado y Bandas Criminales',
       description: 'Representación legal en casos de organizaciones criminales, lavado de activos y delitos conexos. Alto índice de éxito en libertades inmediatas.',
       color: 'text-red-600',
-      image: '/src/assets/servicios/crimen organizado.jpg'
+      image: '/assets/servicios/crimen organizado.jpg'
     },
     {
       icon: Scale,
       title: 'Homicidio y Delitos Contra la Vida',
       description: 'Defensa penal especializada en delitos contra la vida, lesiones graves y tentativa de homicidio con estrategias jurídicas efectivas.',
       color: 'text-red-700',
-      image: '/src/assets/servicios/homicidio.jpg'
+      image: '/assets/servicios/homicidio.jpg'
     },
     {
       icon: Heart,
       title: 'Divorcios y Separación de Bienes',
       description: 'Procesos de divorcio por causales, separación convencional, liquidación de sociedad conyugal y régimen patrimonial.',
       color: 'text-blue-500',
-      image: '/src/assets/servicios/divorcios.jpg'
+      image: '/assets/servicios/divorcios.jpg'
     },
     {
       icon: Users2,
       title: 'Sucesiones y Herencias',
       description: 'Tramitación de sucesiones intestadas y testamentarias, partición de herencias, declaratorias de herederos y conflictos sucesorios.',
       color: 'text-blue-600',
-      image: '/src/assets/servicios/Herencias.jpg'
+      image: '/assets/servicios/Herencias.jpg'
     },
     {
       icon: Home,
       title: 'Desalojo y Derecho Inmobiliario',
       description: 'Procesos de desalojo por ocupación precaria, falta de pago, resolución de contratos y recuperación de inmuebles.',
       color: 'text-blue-700',
-      image: '/src/assets/servicios/desalojo-injusto-de-inquilino-1400x933.jpeg'
+      image: '/assets/servicios/desalojo-injusto-de-inquilino-1400x933.jpeg'
     }
   ];
 
@@ -105,7 +105,7 @@ const PracticeAreas = () => {
                         <div className="mb-4">
                           <div className="inline-flex items-center justify-center w-12 h-12 rounded-full bg-secondary">
                             <svg className={`h-6 w-6 ${area.color}`} fill="currentColor" viewBox="0 0 100 100">
-                              <use href="/src/assets/legal-icons.svg#legal-shield"/>
+                              <use href="/assets/legal-icons.svg#legal-shield"/>
                             </svg>
                           </div>
                         </div>

@@ -90,7 +90,7 @@ const Testimonials = () => {
                   <div className="absolute inset-0 flex items-center justify-center">
                     <div className="text-center">
                       <svg className="w-8 h-8 text-slate-400 mx-auto" fill="currentColor" viewBox="0 0 100 100">
-                        <use href="/src/assets/legal-icons.svg#legal-shield"/>
+                        <use href="/assets/legal-icons.svg#legal-shield"/>
                       </svg>
                     </div>
                   </div>

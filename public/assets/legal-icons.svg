@@ -1,0 +1,164 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <!-- Balanza de la Justicia -->
+  <symbol id="justice-scale" viewBox="0 0 100 100">
+    <g fill="currentColor">
+      <!-- Base -->
+      <rect x="45" y="85" width="10" height="8" rx="2"/>
+      <rect x="35" y="90" width="30" height="5" rx="2"/>
+      
+      <!-- Columna principal -->
+      <rect x="48" y="25" width="4" height="65" rx="2"/>
+      
+      <!-- Barra horizontal -->
+      <rect x="20" y="23" width="60" height="4" rx="2"/>
+      
+      <!-- Platos izquierdo -->
+      <ellipse cx="30" cy="35" rx="12" ry="3"/>
+      <path d="M18 35 Q18 32 21 32 L39 32 Q42 32 42 35 L39 38 L21 38 Z"/>
+      
+      <!-- Platos derecho -->
+      <ellipse cx="70" cy="35" rx="12" ry="3"/>
+      <path d="M58 35 Q58 32 61 32 L79 32 Q82 32 82 35 L79 38 L61 38 Z"/>
+      
+      <!-- Cadenas -->
+      <line x1="30" y1="27" x2="30" y2="32" stroke="currentColor" stroke-width="1"/>
+      <line x1="70" y1="27" x2="70" y2="32" stroke="currentColor" stroke-width="1"/>
+      
+      <!-- Decoración superior -->
+      <circle cx="50" cy="20" r="3"/>
+    </g>
+  </symbol>
+
+  <!-- Martillo de Juez -->
+  <symbol id="judge-gavel" viewBox="0 0 100 100">
+    <g fill="currentColor">
+      <!-- Mango -->
+      <rect x="15" y="65" width="35" height="6" rx="3" transform="rotate(-30 32.5 68)"/>
+      
+      <!-- Cabeza del martillo -->
+      <rect x="45" y="25" width="20" height="12" rx="6" transform="rotate(-30 55 31)"/>
+      <rect x="50" y="20" width="10" height="22" rx="5" transform="rotate(-30 55 31)"/>
+      
+      <!-- Base/Yunque -->
+      <ellipse cx="75" cy="75" rx="15" ry="8"/>
+      <rect x="60" y="70" width="30" height="10" rx="5"/>
+      
+      <!-- Líneas de impacto -->
+      <path d="M65 60 Q70 55 75 60" stroke="currentColor" stroke-width="2" fill="none"/>
+      <path d="M70 50 Q75 45 80 50" stroke="currentColor" stroke-width="2" fill="none"/>
+    </g>
+  </symbol>
+
+  <!-- Escudo Legal -->
+  <symbol id="legal-shield" viewBox="0 0 100 100">
+    <g fill="currentColor">
+      <!-- Escudo principal -->
+      <path d="M50 10 Q30 15 30 35 Q30 65 50 85 Q70 65 70 35 Q70 15 50 10 Z"/>
+      
+      <!-- Balanza interna -->
+      <g transform="translate(50,45) scale(0.4)">
+        <rect x="-15" y="-5" width="30" height="2" rx="1"/>
+        <ellipse cx="-10" cy="5" rx="6" ry="2"/>
+        <ellipse cx="10" cy="5" rx="6" ry="2"/>
+        <line x1="-10" y1="-3" x2="-10" y2="3" stroke="currentColor" stroke-width="1"/>
+        <line x1="10" y1="-3" x2="10" y2="3" stroke="currentColor" stroke-width="1"/>
+      </g>
+      
+      <!-- Decoración -->
+      <circle cx="50" cy="25" r="2"/>
+    </g>
+  </symbol>
+
+  <!-- Libro de Leyes -->
+  <symbol id="law-book" viewBox="0 0 100 100">
+    <g fill="currentColor">
+      <!-- Libro cerrado -->
+      <rect x="25" y="20" width="50" height="60" rx="3"/>
+      <rect x="23" y="22" width="54" height="56" rx="3" fill="none" stroke="currentColor" stroke-width="2"/>
+      
+      <!-- Páginas -->
+      <line x1="30" y1="20" x2="30" y2="80" stroke="currentColor" stroke-width="1"/>
+      <line x1="32" y1="20" x2="32" y2="80" stroke="currentColor" stroke-width="1"/>
+      
+      <!-- Texto simulado -->
+      <line x1="35" y1="30" x2="65" y2="30" stroke="currentColor" stroke-width="1"/>
+      <line x1="35" y1="35" x2="60" y2="35" stroke="currentColor" stroke-width="1"/>
+      <line x1="35" y1="40" x2="65" y2="40" stroke="currentColor" stroke-width="1"/>
+      <line x1="35" y1="50" x2="65" y2="50" stroke="currentColor" stroke-width="1"/>
+      <line x1="35" y1="55" x2="55" y2="55" stroke="currentColor" stroke-width="1"/>
+      
+      <!-- Símbolo de párrafo -->
+      <text x="40" y="70" font-family="serif" font-size="12" font-weight="bold">§</text>
+    </g>
+  </symbol>
+
+  <!-- Edificio de Juzgado -->
+  <symbol id="courthouse" viewBox="0 0 100 100">
+    <g fill="currentColor">
+      <!-- Base -->
+      <rect x="15" y="75" width="70" height="15" rx="2"/>
+      
+      <!-- Escalones -->
+      <rect x="20" y="70" width="60" height="5"/>
+      <rect x="25" y="65" width="50" height="5"/>
+      
+      <!-- Columnas -->
+      <rect x="25" y="35" width="6" height="35"/>
+      <rect x="37" y="35" width="6" height="35"/>
+      <rect x="49" y="35" width="6" height="35"/>
+      <rect x="61" y="35" width="6" height="35"/>
+      <rect x="73" y="35" width="6" height="35"/>
+      
+      <!-- Techo -->
+      <rect x="20" y="30" width="60" height="8" rx="2"/>
+      
+      <!-- Frontón triangular -->
+      <path d="M50 15 L25 30 L75 30 Z"/>
+      
+      <!-- Decoración -->
+      <circle cx="50" cy="22" r="2"/>
+    </g>
+  </symbol>
+
+  <!-- Documento Legal -->
+  <symbol id="legal-document" viewBox="0 0 100 100">
+    <g fill="currentColor">
+      <!-- Papel -->
+      <rect x="25" y="15" width="50" height="70" rx="3"/>
+      <path d="M65 15 L65 25 L75 25 L75 85 L25 85 L25 15 L65 15"/>
+      
+      <!-- Esquina doblada -->
+      <path d="M65 15 L65 25 L75 25 Z" fill="none" stroke="currentColor" stroke-width="1"/>
+      
+      <!-- Líneas de texto -->
+      <line x1="30" y1="25" x2="60" y2="25" stroke="currentColor" stroke-width="1"/>
+      <line x1="30" y1="30" x2="65" y2="30" stroke="currentColor" stroke-width="1"/>
+      <line x1="30" y1="35" x2="55" y2="35" stroke="currentColor" stroke-width="1"/>
+      <line x1="30" y1="45" x2="65" y2="45" stroke="currentColor" stroke-width="1"/>
+      <line x1="30" y1="50" x2="60" y2="50" stroke="currentColor" stroke-width="1"/>
+      <line x1="30" y1="55" x2="65" y2="55" stroke="currentColor" stroke-width="1"/>
+      
+      <!-- Sello/Firma -->
+      <circle cx="55" cy="70" r="8" fill="none" stroke="currentColor" stroke-width="2"/>
+      <text x="55" y="75" text-anchor="middle" font-size="8">LEGAL</text>
+    </g>
+  </symbol>
+
+  <!-- Lupa de Investigación -->
+  <symbol id="legal-search" viewBox="0 0 100 100">
+    <g fill="currentColor">
+      <!-- Lente -->
+      <circle cx="40" cy="40" r="25" fill="none" stroke="currentColor" stroke-width="4"/>
+      
+      <!-- Mango -->
+      <rect x="58" y="58" width="6" height="25" rx="3" transform="rotate(45 61 70.5)"/>
+      
+      <!-- Documento dentro de la lupa -->
+      <rect x="25" y="30" width="30" height="20" rx="2" fill="none" stroke="currentColor" stroke-width="1"/>
+      <line x1="28" y1="35" x2="45" y2="35" stroke="currentColor" stroke-width="1"/>
+      <line x1="28" y1="38" x2="50" y2="38" stroke="currentColor" stroke-width="1"/>
+      <line x1="28" y1="41" x2="42" y2="41" stroke="currentColor" stroke-width="1"/>
+      <line x1="28" y1="44" x2="48" y2="44" stroke="currentColor" stroke-width="1"/>
+    </g>
+  </symbol>
+</svg>

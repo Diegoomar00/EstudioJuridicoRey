@@ -10,7 +10,7 @@ const HistorySection = () => {
       description: 'Inicio de actividades del estudio jurídico en Barranca, con enfoque en Derecho Civil y Penal.',
       icon: Calendar,
       imageSpace: true,
-      image: '/src/assets/historia/fundacion.png'
+      image: '/assets/historia/fundacion.png'
     },
     {
       year: '2012',
@@ -18,7 +18,7 @@ const HistorySection = () => {
       description: 'Incorporación de nuevas especialidades y ampliación del equipo legal con abogados especializados.',
       icon: Users,
       imageSpace: true,
-      image: '/src/assets/historia/expansion de servicios.png'
+      image: '/assets/historia/expansion de servicios.png'
     },
     {
       year: '2015',
@@ -26,7 +26,7 @@ const HistorySection = () => {
       description: 'Consolidación como el estudio jurídico más grande de Barranca con casos exitosos destacados.',
       icon: Award,
       imageSpace: true,
-      image: '/src/assets/historia/reconocimiento regional.png'
+      image: '/assets/historia/reconocimiento regional.png'
     },
     {
       year: '2018',
@@ -34,7 +34,7 @@ const HistorySection = () => {
       description: 'Inicio de representación legal en casos internacionales en Argentina y Brasil.',
       icon: MapPin,
       imageSpace: true,
-      image: '/src/assets/historia/casos internacionales.png'
+      image: '/assets/historia/casos internacionales.png'
     },
     {
       year: '2020',
@@ -42,7 +42,7 @@ const HistorySection = () => {
       description: 'Implementación de tecnología avanzada y servicios de consulta virtual para mejor atención.',
       icon: Target,
       imageSpace: true,
-      image: '/src/assets/historia/Modernizacion digital.png'
+      image: '/assets/historia/Modernizacion digital.png'
     },
     {
       year: '2023',
@@ -50,7 +50,7 @@ const HistorySection = () => {
       description: 'Más de 630 casos exitosos y reconocimiento como líder en Derecho Penal y Civil en la región.',
       icon: Heart,
       imageSpace: true,
-      image: '/src/assets/historia/liderazgo.png'
+      image: '/assets/historia/liderazgo.png'
     }
   ];
 
@@ -182,7 +182,7 @@ const HistorySection = () => {
                       <CardContent className="p-6">
                         <div className="inline-flex items-center justify-center w-16 h-16 rounded-full bg-primary/10 mb-4">
                           <svg className="w-8 h-8 text-primary" fill="currentColor" viewBox="0 0 100 100">
-                            <use href={`/src/assets/legal-icons.svg#${value.icon}`}/>
+                            <use href={`/assets/legal-icons.svg#${value.icon}`}/>
                           </svg>
                         </div>
                         <h4 className="text-lg font-semibold text-primary mb-3">

@@ -7,31 +7,31 @@ import { Button } from '@/components/ui/button';
 const carouselImages = [
   {
     id: 1,
-    url: "/src/assets/instalaciones/oficina 1.png",
+    url: "/assets/instalaciones/oficina 1.png",
     title: "Oficina Principal",
     description: "Nuestras modernas instalaciones en el centro de Barranca"
   },
   {
     id: 2,
-    url: "/src/assets/instalaciones/oficina 2.png",
+    url: "/assets/instalaciones/oficina 2.png",
     title: "Sala de Reuniones",
     description: "Espacios diseñados para reuniones estratégicas y consultas privadas"
   },
   {
     id: 3,
-    url: "/src/assets/instalaciones/oficina 3.png",
+    url: "/assets/instalaciones/oficina 3.png",
     title: "Área de Trabajo",
     description: "Ambiente profesional y cómodo para nuestro equipo legal"
   },
   {
     id: 4,
-    url: "/src/assets/instalaciones/oficina 4.png",
+    url: "/assets/instalaciones/oficina 4.png",
     title: "Recepción",
     description: "Área de bienvenida diseñada para la comodidad de nuestros clientes"
   },
   {
     id: 5,
-    url: "/src/assets/instalaciones/oficina 5.png",
+    url: "/assets/instalaciones/oficina 5.png",
     title: "Biblioteca Jurídica",
     description: "Amplia colección de recursos legales y documentación especializada"
   }

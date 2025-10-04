@@ -89,7 +89,7 @@ const Hero = () => {
                 <div className="absolute -inset-1 bg-gradient-to-r from-amber-400/20 to-blue-500/20 rounded-2xl blur opacity-75"></div>
                 <div className="relative w-40 h-52 sm:w-48 sm:h-60 rounded-2xl overflow-hidden">
                   <img 
-                    src="/src/assets/abogado1.png" 
+                    src="/assets/abogado1.png" 
                     alt="Abogado profesional del estudio jurídico"
                     className="w-full h-full object-cover object-center"
                   />
@@ -178,7 +178,7 @@ const Hero = () => {
               
               <div className="relative w-80 h-[500px] lg:w-96 lg:h-[600px] rounded-2xl overflow-hidden">
                 <img 
-                  src="/src/assets/abogado1.png" 
+                  src="/assets/abogado1.png" 
                   alt="Abogado profesional del estudio jurídico"
                   className="w-full h-full object-cover object-center"
                 />
