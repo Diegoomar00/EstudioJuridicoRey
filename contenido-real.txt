@@ -1,0 +1,205 @@
+ESPECIFICACIONES TÉCNICAS - PÁGINA WEB ESTUDIO JURÍDICO PEDRO LUIS RICRA
+
+1. ESTRUCTURA DE NAVEGACIÓN PRINCIPAL (HEADER)
+
+Menú horizontal con las siguientes pestañas:
+
+​•​Inicio
+
+​•​Servicios Jurídicos
+
+​•​Historia y Trayectoria
+
+​•​Casos Ganados
+
+​•​Nuestro Equipo
+
+​•​Ubicación y Contacto
+
+2. SECCIÓN HERO (PÁGINA PRINCIPAL)
+
+Imagen de fondo: Panorámica de la ciudad de Barranca con superposición del logo/fachada del estudio jurídico
+
+Texto principal (centrado):
+
+“Somos el estudio jurídico más grande y con mayor trayectoria de Barranca, especialistas en Derecho Penal y Civil, a cargo del Dr. Pedro Luis Ricra Llashac y todo el buffet de abogados expertos en distintas áreas legales.”
+
+Botón CTA: “Consulta Gratuita” / “Contactar Ahora”
+
+3. CONTADOR DE LOGROS (Debajo del Hero)
+
+Tres contadores animados con iconos:
+
+​•​Casos Penales Exitosos: 350+ casos ganados
+
+​•​Casos Civiles Exitosos: 280+ casos ganados
+
+​•​Años de Experiencia: 15+ años de trayectoria
+
+4. CARRUSEL DE SERVICIOS MÁS DEMANDADOS
+
+6 casos principales con imagen, título y descripción breve:
+
+DERECHO PENAL:
+
+​1.​Delitos de Tráfico Ilícito de Drogas
+
+​•​Descripción: Defensa especializada en casos de narcotráfico con historial de absoluciones y penas reducidas. Experiencia en casos complejos nacionales e internacionales.
+
+​2.​Crimen Organizando y Bandas Criminales
+
+​•​Descripción: Representación legal en casos de organizaciones criminales, lavado de activos y delitos conexos. Alto índice de éxito en libertades inmediatas.
+
+​3.​Homicidio y Delitos Contra la Vida
+
+​•​Descripción: Defensa penal especializada en delitos contra la vida, lesiones graves y tentativa de homicidio con estrategias jurídicas efectivas.
+
+DERECHO CIVIL:
+
+​4.​Divorcios y Separación de Bienes
+
+​•​Descripción: Procesos de divorcio por causales, separación convencional, liquidación de sociedad conyugal y régimen patrimonial.
+
+​5.​Sucesiones y Herencias
+
+​•​Descripción: Tramitación de sucesiones intestadas y testamentarias, partición de herencias, declaratorias de herederos y conflictos sucesorios.
+
+​6.​Desalojo y Derecho Inmobiliario
+
+​•​Descripción: Procesos de desalojo por ocupación precaria, falta de pago, resolución de contratos y recuperación de inmuebles.
+
+5. SECCIÓN “NUESTRO EQUIPO LEGAL”
+
+ABOGADO PRINCIPAL:
+
+Dr. Pedro Luis Ricra Llashac
+
+​•​Cargo: Director y Socio Fundador
+
+​•​Especialización: Derecho Penal y Procesal Penal
+
+​•​Descripción: Abogado penalista con más de 15 años de experiencia, especialista en delitos de narcotráfico, crimen organizado y delitos complejos. Ha llevado casos exitosos a nivel nacional e internacional (Argentina y Brasil). Reconocido por obtener libertades inmediatas y absoluciones en casos de alta complejidad. Graduado con honores de la Universidad Nacional de Trujillo, con estudios de especialización en Derecho Penal Económico y Procesal Penal. Miembro activo del Colegio de Abogados de Lima y conferencista en seminarios jurídicos especializados.
+
+EQUIPO DE APOYO:
+
+Dr. [Nombre del Padre] Ricra
+
+​•​Cargo: Socio Senior - Área Civil
+
+​•​Especialización: Derecho Civil, Comercial y Contractual
+
+​•​Descripción: Abogado civilista con amplia trayectoria en derecho inmobiliario, sucesiones, contratos y derecho de familia. Fundador del estudio jurídico con más de 25 años de experiencia profesional.
+
+Dra. [Nombre Abogado 2]
+
+​•​Cargo: Abogada Asociada - Derecho de Familia
+
+​•​Especialización: Derecho de Familia, Violencia Familiar y Derecho del Niño
+
+Dr. [Nombre Abogado 3]
+
+​•​Cargo: Abogado Asociado - Derecho Laboral y Comercial
+
+​•​Especialización: Derecho Laboral, Comercial y Societario
+
+6. SECCIÓN UBICACIÓN Y CONTACTO
+
+Información de contacto:
+
+​•​Dirección física del estudio en Barranca
+
+​•​Teléfonos de contacto
+
+​•​Email institucional
+
+​•​Horarios de atención
+
+​•​Mapa interactivo de Google Maps (clickeable)
+
+​•​Galería de fotos del estudio jurídico (interior/exterior)
+
+​•​Video institucional breve (opcional)
+
+7. PÁGINA “HISTORIA Y TRAYECTORIA”
+
+Contenido sugerido:
+
+​•​Fundación del estudio jurídico
+
+​•​Evolución y crecimiento institucional
+
+​•​Principales logros y reconocimientos
+
+​•​Casos emblemáticos que marcaron la trayectoria
+
+​•​Expansión de servicios y especialización
+
+​•​Proyección y compromiso con la comunidad de Barranca
+
+​•​Valores institucionales y filosofía de trabajo
+
+8. PÁGINA “CASOS GANADOS”
+
+Estructura por cada caso:
+
+​•​Foto del Dr. Pedro Luis Ricra con el cliente (con rostros pixelados por privacidad)
+
+​•​Tipo de delito/materia legal
+
+​•​Año del caso
+
+​•​Resultado obtenido
+
+​•​Descripción breve del caso (sin revelar identidades)
+
+​•​Estrategia legal empleada
+
+Categorías de casos:
+
+​•​Casos Penales Destacados
+
+​•​Casos Civiles Exitosos
+
+​•​Casos Internacionales
+
+​•​Libertades Inmediatas Obtenidas
+
+9. ELEMENTOS TÉCNICOS ADICIONALES
+
+Funcionalidades requeridas:
+
+​•​Diseño responsive (móvil, tablet, desktop)
+
+​•​Formulario de contacto con validación
+
+​•​Chat en línea o WhatsApp Business
+
+​
+
+​•​Galería de imágenes lightbox
+
+​•​Contadores animados con JavaScript
+
+​•​Carrusel/slider responsivo
+
+​•​Integración con Google Maps
+
+​•​Botones de redes sociales
+
+Tipografía:
+
+​•​Títulos: Font serif clásica (Times New Roman, Georgia)
+
+​•​Textos: Font sans-serif moderna (Inter, Roboto, Open Sans)
+
+10. LLAMADAS A LA ACCIÓN (CTA)
+
+Botones estratégicos en toda la web INSITANDO AL POSIBLE CLIENTE A QUE DE CLICK A LA IMAGEN:
+
+​•​“CONSULTA con nosotros”
+
+​•​“WhatsApp Directo”
+
+​•​“Solicitar Cita”
+
+​•​“Llamar Ahora”
