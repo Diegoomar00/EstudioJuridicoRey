@@ -17,7 +17,7 @@ const LocationSection = () => {
     {
       icon: Phone,
       title: 'Teléfono',
-      content: '+51 999 XXX XXX',
+      content: '+51 996 150 556',
       description: 'Disponible de lunes a viernes',
       color: 'text-green-600'
     },

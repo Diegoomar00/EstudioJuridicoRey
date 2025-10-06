@@ -5,7 +5,7 @@ const WhatsAppButton = () => {
   const [isHovered, setIsHovered] = useState(false);
   
   // Número de WhatsApp del estudio jurídico (reemplazar con el número real)
-  const whatsappNumber = "51987654321"; // Formato: código país + número sin espacios
+  const whatsappNumber = "51996150556"; // Formato: código país + número sin espacios
   const message = "Hola, me interesa obtener asesoría legal. ¿Podrían ayudarme?";
   
   const handleWhatsAppClick = () => {
