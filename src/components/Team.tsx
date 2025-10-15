@@ -6,8 +6,8 @@ const Team = () => {
   const teamMembers = [
     {
       name: 'Dr. Pedro Luis Ricra Llashac',
-      role: 'Abogado Civil',
-      specialization: 'Derecho Civil, Comercial y Contractual',
+      role: 'Abogado Penalista',
+      specialization: 'Derecho Penal, Comercial y Contractual',
       description: 'Abogado civilista con amplia experiencia en derecho civil, comercial y contractual. Especialista en resolución de conflictos civiles y asesoría legal empresarial.',
       image: '/assets/abogados/Pedro Luis Ricra Llashac - civil.png',
       icon: Briefcase,
