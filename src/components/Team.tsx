@@ -13,15 +13,15 @@ const Team = () => {
       icon: Briefcase,
       isMain: false
     },
-    // {
-    //   name: 'Dr. Javier Alfredo Espejo Vásquez',
-    //   role: 'Abogado Civilista',
-    //   specialization: 'Derecho Civil y Procesal Civil',
-    //   description: 'Especialista en derecho civil con enfoque en litigios civiles, contratos y derecho procesal. Experiencia en casos complejos de derecho civil.',
-    //   image: '/assets/abogados/Richard Junior Sullon Zevallos.jpg',
-    //   icon: Users,
-    //   isMain: false
-    // },
+    {
+      name: 'Dr. Javier Alfredo Espejo Vásquez',
+      role: 'Abogado Civilista',
+      specialization: 'Derecho Civil y Procesal Civil',
+      description: 'Especialista en derecho civil con enfoque en litigios civiles, contratos y derecho procesal. Experiencia en casos complejos de derecho civil.',
+      image: '/assets/abogados/Richard Junior Sullon Zevallos.jpg',
+      icon: Users,
+      isMain: false
+    },
     {
       name: 'Dr. Richard Junior Sullón Zevallos',
       role: 'Abogado Civil Penalista',
