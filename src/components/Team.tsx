@@ -14,7 +14,7 @@ const Team = () => {
       isMain: false
     },
     {
-      name: '',
+      name: 'Carolina Esthefany Gonzales Morales',
       role: 'Secretaria',
       specialization: 'Trámites judiciales, redacción de escritos y soporte a abogados.',
       description: 'Secretaria especializada en gestión administrativa y asistencia legal en estudios jurídicos.',
@@ -109,7 +109,7 @@ const Team = () => {
         </div>
 
         {/* Team Members */}
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-6xl mx-auto">
           {teamMembers
             .filter(member => !member.isMain)
             .map((member, index) => (
